@@ -1,0 +1,15 @@
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\bin\Debug\net7.0\Algoritma3.exe
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\bin\Debug\net7.0\Algoritma3.deps.json
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\bin\Debug\net7.0\Algoritma3.runtimeconfig.json
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\bin\Debug\net7.0\Algoritma3.dll
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\bin\Debug\net7.0\Algoritma3.pdb
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\obj\Debug\net7.0\Algoritma3.csproj.AssemblyReference.cache
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\obj\Debug\net7.0\Algoritma3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\obj\Debug\net7.0\Algoritma3.AssemblyInfoInputs.cache
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\obj\Debug\net7.0\Algoritma3.AssemblyInfo.cs
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\obj\Debug\net7.0\Algoritma3.csproj.CoreCompileInputs.cache
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\obj\Debug\net7.0\Algoritma3.dll
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\obj\Debug\net7.0\refint\Algoritma3.dll
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\obj\Debug\net7.0\Algoritma3.pdb
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\obj\Debug\net7.0\Algoritma3.genruntimeconfig.cache
+C:\Users\besik\Desktop\Dersler\Algoritma3\Algoritma3\obj\Debug\net7.0\ref\Algoritma3.dll
